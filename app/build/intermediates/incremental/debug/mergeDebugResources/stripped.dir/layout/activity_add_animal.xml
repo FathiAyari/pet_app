@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etAnimalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Animal Name" />
+
+    <EditText
+        android:id="@+id/etAnimalType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Animal Type" />
+
+    <EditText
+        android:id="@+id/etAnimalAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Animal Age" />
+
+    <Button
+        android:id="@+id/btnSaveAnimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Animal" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+
+</LinearLayout>

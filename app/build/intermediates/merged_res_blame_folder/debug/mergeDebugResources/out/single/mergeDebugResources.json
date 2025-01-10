@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_note.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_statistics.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_events.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_events.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_add_note.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_login.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_item_reminder.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_animal_item.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/animal_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_animals.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_animals.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_edit_note.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_event_item.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/event_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_reminder.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_gradient_background.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_ic_medical_icon.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/ic_medical_icon.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_create_user.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_create_user.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_edit_animal.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_animal.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_note_item.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_choix.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_choix.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/navigation_nav_graph.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_register.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_edit_event.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_event.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_add_event.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_button_background.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_add_reminder.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_edittext_background.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_ic_reminder_icon.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/ic_reminder_icon.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/drawable_ic_animal_placeholder.jpg.flat",
+        "source": "com.example.myapppeet.app-main-46:/drawable/ic_animal_placeholder.jpg"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapppeet.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_edit_reminder.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-debug-44:/layout_activity_add_animal.xml.flat",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_animal.xml"
+    }
+]

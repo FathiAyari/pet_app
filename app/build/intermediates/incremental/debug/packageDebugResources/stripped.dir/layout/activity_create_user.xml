@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/gradient_background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MEMBER MANAGEMENT"
+        android:textSize="28sp"
+        android:textColor="#483BFF"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp" />
+
+    <EditText
+        android:id="@+id/usernameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:background="@drawable/edittext_background"
+        android:padding="12dp"
+        android:textColor="#121111"
+        android:textColorHint="#B3100F0F"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/passwordInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:background="@drawable/edittext_background"
+        android:padding="12dp"
+        android:textColor="#101010"
+        android:textColorHint="#B3020202"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/createUserButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create User"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:elevation="4dp" />
+
+    <Button
+        android:id="@+id/deleteUserButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete User"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:elevation="4dp" />
+
+    <Button
+        android:id="@+id/listMembersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Members"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:elevation="4dp" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:elevation="4dp" />
+</LinearLayout>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_reminder.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_add_event.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_create_user.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_create_user.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_edit_event.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_event.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_note.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_edit_note.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_choix.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_choix.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_add_animal.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_animal.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_events.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_events.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_add_note.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/item_reminder.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_animals.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_animals.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_edit_animal.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_animal.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/note_item.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/note_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_statistics.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_add_reminder.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/animal_item.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/animal_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_register.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/event_item.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/event_item.xml"
+    },
+    {
+        "merged": "com.example.myapppeet.app-mergeDebugResources-43:/layout/activity_edit_reminder.xml",
+        "source": "com.example.myapppeet.app-main-46:/layout/activity_edit_reminder.xml"
+    }
+]

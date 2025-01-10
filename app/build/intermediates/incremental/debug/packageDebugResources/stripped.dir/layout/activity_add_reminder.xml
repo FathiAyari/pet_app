@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+        <!-- Reminder Subject -->
+        <EditText
+            android:id="@+id/reminderSubject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Reminder Subject"
+            android:inputType="text" />
+
+        <!-- Reminder Date -->
+        <EditText
+            android:id="@+id/reminderDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="YYYY-MM-DD"
+            android:inputType="none"
+            android:focusable="false" /> <!-- Makes it non-editable but still clickable -->
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btnSaveReminder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Reminder"
+            android:layout_marginTop="16dp" />
+
+        <!-- Back Button -->
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:layout_marginTop="8dp" />
+
+</LinearLayout>

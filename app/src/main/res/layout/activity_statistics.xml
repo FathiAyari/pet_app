@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+
+
+    <!--titre -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Note:"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Zone de texte pour la note -->
+    <EditText
+        android:id="@+id/editTextNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Vous pouvez noter les activités de votre animal."
+        android:inputType="textMultiLine"
+        android:minHeight="150dp"
+        android:gravity="top|start"
+        android:padding="8dp"
+        android:background="@android:drawable/editbox_background"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Bouton pour enregistrer la note -->
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Note"
+        android:gravity="center"/>
+</LinearLayout>

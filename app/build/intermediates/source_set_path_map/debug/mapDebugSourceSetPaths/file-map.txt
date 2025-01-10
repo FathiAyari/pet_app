@@ -1,0 +1,47 @@
+com.example.myapppeet.app-lifecycle-viewmodel-savedstate-2.6.2-0 C:\Users\fatayari\.gradle\caches\transforms-4\0bdf815206d9fe9b245e89e1495451f9\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.myapppeet.app-fragment-1.6.2-1 C:\Users\fatayari\.gradle\caches\transforms-4\108261ecb88d95e0b0cbce63bc8876f0\transformed\fragment-1.6.2\res
+com.example.myapppeet.app-constraintlayout-2.2.0-2 C:\Users\fatayari\.gradle\caches\transforms-4\1cecc2277aaba74895ba7ad2dee27a59\transformed\constraintlayout-2.2.0\res
+com.example.myapppeet.app-profileinstaller-1.4.0-3 C:\Users\fatayari\.gradle\caches\transforms-4\1d89091848a29bdba685862a1651a835\transformed\profileinstaller-1.4.0\res
+com.example.myapppeet.app-lifecycle-viewmodel-2.6.2-4 C:\Users\fatayari\.gradle\caches\transforms-4\2340a0354c3b8f3af5669821a51d8052\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.myapppeet.app-activity-ktx-1.9.3-5 C:\Users\fatayari\.gradle\caches\transforms-4\25e26bac273e0efb2b354021d4c5d599\transformed\activity-ktx-1.9.3\res
+com.example.myapppeet.app-emoji2-views-helper-1.3.0-6 C:\Users\fatayari\.gradle\caches\transforms-4\261d9010f94cd4f50d36d8793dab17af\transformed\emoji2-views-helper-1.3.0\res
+com.example.myapppeet.app-emoji2-1.3.0-7 C:\Users\fatayari\.gradle\caches\transforms-4\34abe1134d2a2cfac048e0c445f5a6ed\transformed\emoji2-1.3.0\res
+com.example.myapppeet.app-savedstate-1.2.1-8 C:\Users\fatayari\.gradle\caches\transforms-4\34cf88cf98a717cb2f220e40ce5ef14d\transformed\savedstate-1.2.1\res
+com.example.myapppeet.app-lifecycle-runtime-2.6.2-9 C:\Users\fatayari\.gradle\caches\transforms-4\3ae960c271be2c808b833c0e9018dff6\transformed\lifecycle-runtime-2.6.2\res
+com.example.myapppeet.app-slidingpanelayout-1.2.0-10 C:\Users\fatayari\.gradle\caches\transforms-4\3d789d328868a9fa455f6f2f68d3ca51\transformed\slidingpanelayout-1.2.0\res
+com.example.myapppeet.app-fragment-ktx-1.6.2-11 C:\Users\fatayari\.gradle\caches\transforms-4\532ae28878e5ca810b1506a8229dbe7d\transformed\fragment-ktx-1.6.2\res
+com.example.myapppeet.app-viewpager2-1.1.0-beta02-12 C:\Users\fatayari\.gradle\caches\transforms-4\603a2102d1055127424a02f239952008\transformed\viewpager2-1.1.0-beta02\res
+com.example.myapppeet.app-navigation-ui-2.8.5-13 C:\Users\fatayari\.gradle\caches\transforms-4\61bf414f813f56aff608e0caeae592f0\transformed\navigation-ui-2.8.5\res
+com.example.myapppeet.app-appcompat-1.7.0-14 C:\Users\fatayari\.gradle\caches\transforms-4\62f086087df920e0b9b35cd9c8429a01\transformed\appcompat-1.7.0\res
+com.example.myapppeet.app-savedstate-ktx-1.2.1-15 C:\Users\fatayari\.gradle\caches\transforms-4\6eaeb0ad338678056c112aca0a5d4c0a\transformed\savedstate-ktx-1.2.1\res
+com.example.myapppeet.app-appcompat-resources-1.7.0-16 C:\Users\fatayari\.gradle\caches\transforms-4\6f5c7551a7ebd2ad2dd8c4dea001f445\transformed\appcompat-resources-1.7.0\res
+com.example.myapppeet.app-window-1.0.0-17 C:\Users\fatayari\.gradle\caches\transforms-4\7c5520bfb6ea481424d53c927a9c4392\transformed\window-1.0.0\res
+com.example.myapppeet.app-lifecycle-livedata-core-2.6.2-18 C:\Users\fatayari\.gradle\caches\transforms-4\7c75c3123cbca175b2d1ccb7b2ce1f71\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.myapppeet.app-navigation-fragment-2.8.5-19 C:\Users\fatayari\.gradle\caches\transforms-4\7ec94bbf1486a6b81a5544ffa889edcd\transformed\navigation-fragment-2.8.5\res
+com.example.myapppeet.app-transition-1.5.0-20 C:\Users\fatayari\.gradle\caches\transforms-4\7ededb4bf349cf7423c6f4472c277665\transformed\transition-1.5.0\res
+com.example.myapppeet.app-lifecycle-process-2.6.2-21 C:\Users\fatayari\.gradle\caches\transforms-4\88f0e4823c69184ed8c6f1599c09e3a9\transformed\lifecycle-process-2.6.2\res
+com.example.myapppeet.app-core-runtime-2.2.0-22 C:\Users\fatayari\.gradle\caches\transforms-4\8cba7eb7f1332fe23c8349c2646dbcdd\transformed\core-runtime-2.2.0\res
+com.example.myapppeet.app-material-1.12.0-23 C:\Users\fatayari\.gradle\caches\transforms-4\905947d805ba551cad893362076c92af\transformed\material-1.12.0\res
+com.example.myapppeet.app-lifecycle-livedata-core-ktx-2.6.2-24 C:\Users\fatayari\.gradle\caches\transforms-4\935d082d51ba7260b1a6ab5f963787c9\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.myapppeet.app-startup-runtime-1.1.1-25 C:\Users\fatayari\.gradle\caches\transforms-4\97556ed6885512f3eaf3ccaf0256cfce\transformed\startup-runtime-1.1.1\res
+com.example.myapppeet.app-activity-1.9.3-26 C:\Users\fatayari\.gradle\caches\transforms-4\9d91ca7dfa800224b8e09fbedb7f7672\transformed\activity-1.9.3\res
+com.example.myapppeet.app-drawerlayout-1.1.1-27 C:\Users\fatayari\.gradle\caches\transforms-4\a36b8683854614024396005c041ba639\transformed\drawerlayout-1.1.1\res
+com.example.myapppeet.app-lifecycle-viewmodel-ktx-2.6.2-28 C:\Users\fatayari\.gradle\caches\transforms-4\a3a848f65e6152e0b3102040124b228e\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.myapppeet.app-core-ktx-1.13.0-29 C:\Users\fatayari\.gradle\caches\transforms-4\a4ab714c8fda8b20a459c2a79bfaecff\transformed\core-ktx-1.13.0\res
+com.example.myapppeet.app-core-1.13.0-30 C:\Users\fatayari\.gradle\caches\transforms-4\a570dfbd695cb4cf714c33ef28d1519d\transformed\core-1.13.0\res
+com.example.myapppeet.app-recyclerview-1.3.2-31 C:\Users\fatayari\.gradle\caches\transforms-4\ba8c4c35e282c2a5b1eb081f0b4ee646\transformed\recyclerview-1.3.2\res
+com.example.myapppeet.app-cardview-1.0.0-32 C:\Users\fatayari\.gradle\caches\transforms-4\c0011cd18cffd11a88eb9a47638b7f59\transformed\cardview-1.0.0\res
+com.example.myapppeet.app-navigation-common-2.8.5-33 C:\Users\fatayari\.gradle\caches\transforms-4\c792dfe36983bf1462751d8220126ae7\transformed\navigation-common-2.8.5\res
+com.example.myapppeet.app-lifecycle-runtime-ktx-2.6.2-34 C:\Users\fatayari\.gradle\caches\transforms-4\cc9aafdd53017152c191afb7fc785a2f\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.myapppeet.app-lifecycle-livedata-2.6.2-35 C:\Users\fatayari\.gradle\caches\transforms-4\d511cf2eaef409f7623dcbc5c96f36d8\transformed\lifecycle-livedata-2.6.2\res
+com.example.myapppeet.app-navigation-runtime-2.8.5-36 C:\Users\fatayari\.gradle\caches\transforms-4\db5b52e3f708c306a16898c26add0d25\transformed\navigation-runtime-2.8.5\res
+com.example.myapppeet.app-coordinatorlayout-1.1.0-37 C:\Users\fatayari\.gradle\caches\transforms-4\edc86a0bad0ee0ab80af612597a8ee1c\transformed\coordinatorlayout-1.1.0\res
+com.example.myapppeet.app-annotation-experimental-1.4.1-38 C:\Users\fatayari\.gradle\caches\transforms-4\f7ef4e753501483bf8b53e3d8ec81d79\transformed\annotation-experimental-1.4.1\res
+com.example.myapppeet.app-customview-poolingcontainer-1.0.0-39 C:\Users\fatayari\.gradle\caches\transforms-4\fea5ce76f0d13bad3e98ae372e70f9bd\transformed\customview-poolingcontainer-1.0.0\res
+com.example.myapppeet.app-pngs-40 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\build\generated\res\pngs\debug
+com.example.myapppeet.app-resValues-41 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\build\generated\res\resValues\debug
+com.example.myapppeet.app-packageDebugResources-42 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapppeet.app-packageDebugResources-43 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapppeet.app-debug-44 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myapppeet.app-debug-45 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\src\debug\res
+com.example.myapppeet.app-main-46 C:\Users\fatayari\OneDrive - Sopra Steria\Desktop\personal\MyAppPEET\app\src\main\res

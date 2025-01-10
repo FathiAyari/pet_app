@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnAnimals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Animals" />
+
+    <Button
+        android:id="@+id/btnEvents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Events" />
+
+    <Button
+        android:id="@+id/btnReminders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reminders" />
+
+    <Button
+        android:id="@+id/btnStatistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notes" />
+
+    <!-- Log Out Button -->
+    <Button
+        android:id="@+id/btnLogOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Log Out"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
