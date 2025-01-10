@@ -30,10 +30,10 @@ public class RegisterActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String Nom = "SS";//edNom.getText().toString();
-                String Email = "ss@ss.ss";//edEmail.getText().toString();
-                String Motdepasse ="ssssss@1"; //edMotdepasse.getText().toString();
-                String Confirm ="ssssss@1"; //edConfirm.getText().toString();
+                String Nom = edNom.getText().toString();
+                String Email = edEmail.getText().toString();
+                String Motdepasse =edMotdepasse.getText().toString();
+                String Confirm =edConfirm.getText().toString();
                 Database db = new Database(getApplicationContext(), "Reclamation Client", null, 1);
 
                 if (Nom.length() == 0 || Email.length() == 0 || Motdepasse.length() == 0 || Confirm.length() == 0) {
